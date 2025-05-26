@@ -107,10 +107,3 @@
   <li><strong>Life Stories and (Re)Existence Against Homophobia</strong></li>
   <li><strong>Heartstopper</strong> – A touching graphic novel and Netflix series about LGBTQIA+ youth.</li>
 </ul>
-
-  </div>  <!-- LGBTQIA+ Music Playlist -->  <audio controls autoplay loop>
-    <source src="https://example.com/lgbtq-song.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
-</body>
-</html>
