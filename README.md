@@ -10,40 +10,7 @@
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
-      background-attachment: fixed;
-    }
-    .container {
-      background-color: rgba(0, 0, 0, 0.75);
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
-    }
-    h1, h2 {
-      color: #ffb6c1;
-    }
-    a {
-      color: #add8e6;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    iframe {
-      width: 100%;
-      height: 315px;
-      margin-bottom: 20px;
-    }
-    ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    li {
-      margin-bottom: 1rem;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
+      background-attachment: fixed
     <h1>LGBTQIA+ Education & Awareness</h1>
     <p>If you were directed to this link through the poster and didn't understand the part that says "so many lives were taken based on assumptions," let me explain:</p>
     <p>Religion has been used many times by different people as a reason to commit cruelty not only against LGBTQIA+ people but also against those of other religions, because they believe their religion holds the truth.</p>
